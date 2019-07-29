@@ -2,7 +2,7 @@
 This is the repository that contains both the starter and finished application which is written in Kotlin.
 
 ## Introduction
-A simple mobile application with buttons arranged and created using Linear Layout in Kotlin. 
+A simple mobile application with buttons arranged and created using Linear Layout in Kotlin using Android Studio. 
 The project gradle is named "LinearLayout".
 
 The buttons would have to be arranged using Linear Layout following the design shown below.
